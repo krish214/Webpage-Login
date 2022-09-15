@@ -1,0 +1,89 @@
+.bg-img{
+    background-image: url("assets/login-background.jpg");
+    height:100vh;
+    width:100%;
+    background-size:cover;
+  
+}
+
+.d-box{
+    background-color: #444;
+    width:1200px;
+    height:420px;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    position:absolute;
+    top: 50%;
+    transform:translate(-50%,-50%);
+    left: 50%;
+}
+.txt1{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+span{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.l-form{
+    
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 60px;
+    padding-left: 60px;
+    margin-top: 20px;
+    margin-top: 50px;
+
+}
+.divider{
+    
+    width: 90%;
+    height: 0.2px;
+    border: width 0.2px;;
+    background-color:#777777;
+}
+.form-input{
+    margin-top: 15px;
+}
+.style{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.bg-placeholder{
+    background-color: #171717;
+}
+
+.g-icon{
+    margin-right: 10px;
+    width: 24px;
+    height:24px;
+}
+.full-width{
+    width: 100%;
+}
+.btn-login{
+    background-color: #FDE401;
+    font-weight: bold;
+    margin-top: 25px;
+}
+.vl {
+         margin-top: 100px;
+        border-left: 0.2px 
+        solid #777777;
+        height: 280px;
+      }
+  
+.logo{
+margin-top: 50px;
+
+}
+.txt{
+    color:white;
+}
+.size{
+    width:100px;
+}
